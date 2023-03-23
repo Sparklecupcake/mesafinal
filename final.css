@@ -1,0 +1,60 @@
+body{
+    background-color: #99cccf;
+    
+    font-family: Copperplate;
+}
+
+div.menu{
+   float : center;
+}
+
+
+
+
+
+div.menu ul {
+    
+        
+          list-style-type: none;    /*REMOVES BULLETS FROM LIST*/
+
+          margin: 0;
+
+          padding: 0;
+
+          overflow: hidden;
+
+          background-color: ;
+          
+
+}
+
+div.menu ul li{
+
+          float: left;
+
+}
+
+div.menu ul li a{
+
+          display: block;
+
+          color: black;
+
+          text-align: center;
+          float: center;
+
+          padding: 14px 16px;
+
+          text-decoration: none;
+
+}
+
+div.menu ul li a:hover{
+
+          background-color: grey;
+
+}
+img{
+    float: center;
+}
+
